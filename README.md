@@ -1,4 +1,4 @@
-# Toko Online Roti
-Project Toko Online Roti Lengkap dengan proses manufacturing
+# Sistem Penjualan Kue Online
+Project Toko Kue Online Lengkap dengan proses manufacturing serta dilengkapi dengan hasil laporan keuangannya.
 
 UNTUK MASUK HALAMAN ADMIN SILAHKAN MASUK DENGAN MENAMBAHKAN /admin di akhir URL
